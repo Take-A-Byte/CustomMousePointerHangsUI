@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CustomMousePointerHangsUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CustomMousePointerHangsUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
